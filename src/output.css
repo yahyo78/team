@@ -121,6 +121,9 @@
 .w-\[91px\] {
   width: 91px;
 }
+.w-\[100\%\] {
+  width: 100%;
+}
 .w-\[101px\] {
   width: 101px;
 }
@@ -151,6 +154,9 @@
 .w-\[447px\] {
   width: 447px;
 }
+.w-\[500px\] {
+  width: 500px;
+}
 .w-\[520px\] {
   width: 520px;
 }
@@ -166,8 +172,35 @@
 .w-\[1020px\] {
   width: 1020px;
 }
+.w-\[1300px\] {
+  width: 1300px;
+}
+.w-\[1330px\] {
+  width: 1330px;
+}
+.w-\[1340px\] {
+  width: 1340px;
+}
+.w-\[1345px\] {
+  width: 1345px;
+}
+.w-\[1350px\] {
+  width: 1350px;
+}
+.w-\[1400px\] {
+  width: 1400px;
+}
+.w-\[1500px\] {
+  width: 1500px;
+}
+.max-w-\[150px\] {
+  max-width: 150px;
+}
 .max-w-\[1250px\] {
   max-width: 1250px;
+}
+.max-w-\[1440px\] {
+  max-width: 1440px;
 }
 .transform {
   transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y);
