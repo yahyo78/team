@@ -4,53 +4,17 @@
 .m-auto {
   margin: auto;
 }
-.mx-auto {
-  margin-inline: auto;
-}
-.mt-\[40px\] {
-  margin-top: 40px;
-}
-.mt-\[50px\] {
-  margin-top: 50px;
+
 }
 .flex {
   display: flex;
 }
-.w-\[1--\%\] {
-  width: 1--%;
-}
-.w-\[15-0px\] {
-  width: 15-0px;
-}
-.w-\[15px\] {
-  width: 15px;
-}
-.w-\[50\%\] {
-  width: 50%;
-}
-.w-\[80\%\] {
-  width: 80%;
-}
-.w-\[90\%\] {
-  width: 90%;
+
 }
 .w-\[100\%\] {
   width: 100%;
 }
-.w-\[110\%\] {
-  width: 110%;
-}
-.w-\[150px\] {
-  width: 150px;
-}
-.w-\[280px\] {
-  width: 280px;
-}
-.w-\[900px\] {
-  width: 900px;
-}
-.w-\[1200px\] {
-  width: 1200px;
+
 }
 .w-\[1400px\] {
   width: 1400px;
@@ -58,29 +22,12 @@
 .w-\[1500px\] {
   width: 1500px;
 }
-.w-\[1509px\] {
-  width: 1509px;
-}
-.w-\[1519px\] {
-  width: 1519px;
-}
-.w-\[1550px\] {
-  width: 1550px;
-}
-.w-\[1600px\] {
-  width: 1600px;
-}
-.w-fit {
-  width: fit-content;
+
 }
 .transform {
   transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y);
 }
-.items-center {
-  align-items: center;
-}
-.justify-around {
-  justify-content: space-around;
+
 }
 .justify-between {
   justify-content: space-between;
@@ -88,58 +35,27 @@
 .justify-center {
   justify-content: center;
 }
-.justify-evenly {
-  justify-content: space-evenly;
-}
-.gap-\[10px\] {
-  gap: 10px;
-}
-.gap-\[20px\] {
-  gap: 20px;
-}
-.rounded-\[7px\] {
-  border-radius: 7px;
-}
-.border-dashed {
-  --tw-border-style: dashed;
-  border-style: dashed;
+
 }
 .bg-\[\#FF3F3A\] {
   background-color: #FF3F3A;
 }
-.bg-\[\#ffd1c0\] {
-  background-color: #ffd1c0;
-}
-.px-\[30px\] {
-  padding-inline: 30px;
-}
-.py-\[10px\] {
-  padding-block: 10px;
-}
-.py-\[40px\] {
-  padding-block: 40px;
+
 }
 .text-center {
   text-align: center;
 }
-.text-\[20px\] {
-  font-size: 20px;
-}
-.text-\[40px\] {
-  font-size: 40px;
+
 }
 .text-\[46px\] {
   font-size: 46px;
 }
-.leading-\[25px\] {
-  --tw-leading: 25px;
-  line-height: 25px;
+
 }
 .text-\[\#FF3F3A\] {
   color: #FF3F3A;
 }
-.filter {
-  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+
 }
 @property --tw-rotate-x {
   syntax: "*";
@@ -166,43 +82,5 @@
   inherits: false;
   initial-value: skewY(0);
 }
-@property --tw-leading {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-blur {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-brightness {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-contrast {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-grayscale {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-hue-rotate {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-invert {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-opacity {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-saturate {
-  syntax: "*";
-  inherits: false;
-}
-@property --tw-sepia {
-  syntax: "*";
-  inherits: false;
+
 }
