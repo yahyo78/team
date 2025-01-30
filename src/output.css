@@ -58,6 +58,18 @@
 .mb-\[80px\] {
   margin-bottom: 80px;
 }
+.mb-\[100px\] {
+  margin-bottom: 100px;
+}
+.mb-\[180px\] {
+  margin-bottom: 180px;
+}
+.mb-\[240px\] {
+  margin-bottom: 240px;
+}
+.mb-\[280px\] {
+  margin-bottom: 280px;
+}
 .flex {
   display: flex;
 }
